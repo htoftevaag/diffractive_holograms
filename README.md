@@ -1,5 +1,5 @@
 # diffractive_holograms
-diffractive_hologram is a hobby project exploring the use of the Gerchberg–Saxton (GS) algorithm to design diffractive optical elements (DOEs) for generating holograms. The project focuses on both transmissive and reflective holographic elements and provides a simple workflow for simulating, iterating, and visualising phase-only holograms.
+diffractive_hologram is a hobby project exploring the use of the Gerchberg–Saxton (G-S) algorithm to design diffractive optical elements (DOEs) for generating holograms. The project focuses on both transmissive and reflective holographic elements and provides a simple workflow for simulating, iterating, and visualising phase-only holograms.
 
 ![Computer-generated hologram through diffractive optical elements using the G-S algorithm](https://github.com/htoftevaag/diffractive_holograms/blob/main/figures/DOE_fig.png?raw=true)
 
